@@ -1,0 +1,34 @@
+<install>
+    <database>
+        <db_host>localhost</db_host>
+        <db_model>mysql4</db_model>
+        <db_name>[base_unsecure_url]database</db_name>
+        <db_user>root</db_user>
+        <db_pass>root</db_pass>
+        <db_prefix></db_prefix>
+        <enable_charts>1</enable_charts>
+    </database>
+    <localedata>
+        <locale>en_GB</locale>
+        <timezone>Europe/London</timezone>
+        <currency>GBP</currency>
+    </localedata>
+    <urlconfig>
+        <admin_url>/admin</admin_url>
+        <base_unsecure_url>localhost:8888/magento</base_unsecure_url>
+        <use_rewrites>0</use_rewrites>
+        <skip_base_url_validation>1</skip_base_url_validation>
+        <secure>
+            <secure_base_url>localhost:8888/secure/magento</secure_base_url>
+            <use_secure_admin>1</use_secure_admin>
+            <skip_url_validation>0</skip_url_validation>
+        </secure>
+    </urlconfig>
+    <admin>
+        <firstname>Ethan</firstname>
+        <lastname>Riley</lastname>
+        <email>email@email.co.uk</email>
+        <username>admin</username>
+        <password>root</password>
+    </admin>
+</install>
