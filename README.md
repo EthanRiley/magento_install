@@ -15,9 +15,9 @@ currently is split into three parts which will be eventually be put back togethe
 
 OS's tested On:
 
-- []  Linux
+- [ ]  Linux
 
-- []  Windows
+- [ ]  Windows
 
-- []  Mac
+- [ ]  Mac
 
