@@ -19,5 +19,5 @@ OS's tested On:
 
 - [ ]  Windows
 
-- [ ]  Mac
+- [x]  Mac
 
